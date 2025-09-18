@@ -8,7 +8,7 @@
         "branch": "main"
     },
     "dependencies": {
-        "cyril-musikaloid/Settingator": "^2.4.1",
+        "cyril-musikaloid/Settingator": "^0.3.28"
     },
     "frameworks": ["espidf", "arduino"],
     "platforms": "espressif32"
