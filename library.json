@@ -1,0 +1,15 @@
+{
+    "name": "Settingator",
+    "version": "0.1",
+    "author": "CPM",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cyril-musikaloid/LedModule",
+        "branch": "main"
+    },
+    "dependencies": {
+        "cyril-musikaloid/Settingator": "^2.4.1",
+    },
+    "frameworks": ["espidf", "arduino"],
+    "platforms": "espressif32"
+}
